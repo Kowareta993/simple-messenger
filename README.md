@@ -4,6 +4,7 @@ A simple messenger written in python using mysql database
 to run the program:
 1. setup a virtual environment (optional)
 > python -m venv env
+> source env/bin/activate
 2. install required libs via pip
 > pip install -r requirements.txt
 3. run the program
